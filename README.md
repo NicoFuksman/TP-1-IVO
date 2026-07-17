@@ -1,6 +1,7 @@
-# Información del Proyecto
+# Información del trabajo (partidos del mundial)
 
 * **Nombre:** Nicolas Fuksman
+* **Curso:** 5°E
 * **Materia:** Frontend
 * **LINK:** https://partidos-mundial-tp1.vercel.app/
 
