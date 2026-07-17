@@ -1,0 +1,17 @@
+{
+  "name": "mundial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "dev": "astro dev",
+  "start": "astro dev",
+  "build": "astro build",
+  "preview": "astro preview"
+},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "astro": "^7.1.1"
+  }
+}
