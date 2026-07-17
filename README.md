@@ -2,6 +2,7 @@
 
 * **Nombre:** Nicolas Fuksman
 * **Materia:** Frontend
+* **LINK:** https://partidos-mundial-tp1.vercel.app/
 
 ## Explicación de la página
 Una página que permite visualizar todos los partidos jugados y por jugarse del mundial.
